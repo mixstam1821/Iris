@@ -5,7 +5,7 @@ with **PySide6**. Load a `.nc` file, pick a variable, render it as a 2D field
 with a colorbar — no browser involved.
 
 Companion project to [Xenia](https://github.com/mixstam1821/Xenia), but
-where Xenia is a FastAPI + MapLibre browser app, Iris (and a lightweight Xenia) is a genuine desktop
+where Xenia is a FastAPI + MapLibre browser app, Iris (as a lightweight Xenia) is a genuine desktop
 GUI application: real `QMainWindow`, menus, threading, embedded matplotlib
 canvas.
 
